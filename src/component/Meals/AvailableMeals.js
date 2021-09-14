@@ -29,7 +29,7 @@ const DUMMY_MEALS = [
       id: 'm5',
       name: ' Alfredo sauce Pasta',
       description: 'Healthy...and green...',
-      price: 18.99,
+      price: 20.99,
     },
   ];
 
